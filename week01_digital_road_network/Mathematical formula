@@ -1,0 +1,16 @@
+Weighted Score = Distance + Flood-Risk Penalty
+
+Road 1:
+2 km + low flood risk → low score
+
+Road 2:
+10 km + high flood risk → high score
+
+
+| Flood Risk | Penalty |
+| ---------- | ------: |
+| Low        |       1 |
+| Medium     |       5 |
+| High       |      10 |
+
+
