@@ -1,0 +1,24 @@
+# Digital Road Network
+
+This module converts the initial FloodPath road map into a digital graph.
+
+## Representation
+
+- Nodes represent locations/intersections.
+- Edges represent roads connecting those locations.
+- Road weights are not assigned yet; they will be added in the flood-risk weighting stage.
+
+## Nodes
+
+A, B, N, S, L
+
+## Roads
+
+- A - B
+- N - S
+- N - L
+- S - L
+
+## Purpose
+
+This graph will later be converted into a weighted road network and used by A* Search for evacuation routing.
