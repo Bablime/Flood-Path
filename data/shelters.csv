@@ -1,0 +1,158 @@
+shelter_id,name,lat,lon,capacity
+CS_3,Fulerdail Cyclone center,21.0126629837,92.2516718769,2000.0
+CS_51,Rajor Chora Govt. Primary School,20.9036519276359,92.2405447209777,1500.0
+CS_38,Lomboripara Govt. Primary School,20.8889204142837,92.2528170421689,1900.0
+CS_32,Katakhali Govt. Primary School-2 Nos.,21.1326427835773,92.1845498915673,1000.0
+CS_40,Moheshkhalia para Govt. Primary School,20.8559738096861,92.2796100433562,2000.0
+CS_49,Pallanpara Govt. Primary School,20.8657398,92.28330931,2000.0
+CS_36,Langurbil Govt. Primary School,20.87260774,92.26719075,2000.0
+CS_60,Shaparirdip Basir Ahmad High School,20.7667536908705,92.3310992954108,2300.0
+CS_57,Sikdar para cyclone center,20.82895,92.29995,2000.0
+CS_41,Mondardail Govt. Primary School,20.830874673986,92.2926288780972,2000.0
+CS_61,Shaparirdip Jalipara Govt.Primary School-2,20.781662647194,92.3348013915143,2000.0
+CS_2,Borodail (Matha bhaga) Govt. Primary School,20.9849744726,92.1993313413,2000.0
+CS_58,Shamlapur Govt.Primary School-2 Nos.,21.0741301957789,92.1442864600322,2000.0
+CS_43,Naya para Govt.Primary School,20.8083701555693,92.3145950957406,2500.0
+CS_23,Hariakhali Govt.Primary School,20.80048333,92.31481667,1400.0
+CS_127,Purbadigalia Govt. Primary School,21.26253,92.1589,900.0
+CS_45,Nila Burmise Govt. Primary School,20.9981118603,92.2547802588,1092.0
+CS_37,Leda Govt. Primary School,20.965787354,92.2503771987,1092.0
+CS_70,Ulochamri Govt.Primary School,20.99796667,92.24138333,1092.0
+CS_50,Pankhali Govt. Primary School,21.0149274205732,92.237261117718,1092.0
+CS_68,Tulatoli Cyclone Shelter,20.8647802824287,92.2727998260303,1000.0
+CS_35,Khonkarpara Govt. Primary School,20.8435656792494,92.281213812851,1000.0
+CS_29,Kachubania Ideal Govt. Primary School,20.8456168826741,92.2861129692908,1000.0
+CS_69,Ulobania Govt.primary School,21.1420295423486,92.191228433202,700.0
+CS_21,Habir chora Govt.primary School,20.89543,92.248113,600.0
+,Hatir Ghona Cyclone Shelter,20.883555,92.258448,600.0
+CS_8,Malkabhanu high school bahumukhi cyclone center,20.8801100907506,92.2623352032876,1000.0
+CS_1,Baitus Saraf muhammodia Riadul Jannah Dakil Madrasha,20.8569267768892,92.290677983847,1000.0
+CS_15,Ali Dail Red Cresent Cyclone Shelter,20.8248843795884,92.2962481558127,700.0
+CS_24,Hoyaikong Govt. Primary School,21.1157522663,92.1956976871,500.0
+CS_20,Dangar para Red Cresent Govt. Primary School,20.7686946951282,92.3196439060159,700.0
+CS_17,Chandoli para Red Cresent Cyclone Shelter,20.838233149504,92.2892308560159,700.0
+CS_31,Katabania Govt. Primary School,20.80243577369,92.3078096467199,700.0
+CS_157,Noapara (South) Cyclone Shelter,20.80760688,92.32105355,500.0
+CS_10,Sahaporirdip Dakkin para Center,20.7606710523781,92.332179828041,1000.0
+CS_33,Kerontoli Govt. Primary School,21.138116,92.165616,1500.0
+CS_11,Sahaporirdip Uttar para Sahaporirdip Dakkin para center,20.7728967260845,92.3261147753649,1000.0
+CS_13,Uttar Silkhali Cyclone Center,21.0542723240725,92.1635705246414,1500.0
+CS_19,Dakkin Shilkhali Govt. Primary School,21.03778333,92.17718333,1500.0
+CS_26,Jahajpura Govt.Primary School,21.0158225003,92.1879791601,1500.0
+CS_48,Noakhali para Govt.Primary School,20.9150539921147,92.2312925311729,700.0
+CS_25,Hozam para Govt.Primary School,21.0030515084876,92.191553079208,1000.0
+CS_16,Baharchora Talimul Koran Dakil Madrasa,21.05528333,92.16245,1500.0
+CS_6,Lambabill,21.1083481529367,92.2056630635275,1000.0
+CS_52,Rangikhali Cyclone Shelter,20.9896504922171,92.240933970537,1500.0
+CS_92,Monkhali Govt. Primary School,21.09138,92.129765,400.0
+CS_98,Sonarpara Govt. Primary School,21.28523,92.0549,400.0
+CS_95,Sonaichori Govt. Primary School,21.28413,92.0707,400.0
+CS_89,Lambaripara Govt. Primary School,21.287992,92.081143,350.0
+CS_145,Jaliapalong Govt. Primary School,21.27674402,92.08691588,400.0
+CS_78,Moricha Palong High School,21.30192,92.0998,400.0
+CS_81,Pagalir bil Govt. Primary School,21.322018,92.113863,300.0
+CS_80,Nalbania Govt. Primary School,21.30507,92.1305,450.0
+CS_82,Rumkha palong Govt. Primary School,21.2860674452395,92.0925740197316,400.0
+CS_116,Thimcori Govt. Primary School,21.29538,92.1437,400.0
+CS_141,Goyalmara Govt. Primary School,21.2674424705286,92.1448395737649,400.0
+CS_85,Sepotkhali Govt. Primary School,21.100552,92.119708,400.0
+CS_111,Kamarial Bil Govt. Primary School,21.27447,92.1342,400.0
+CS_149,Sheikder Bill Govt. Primary School,21.25847122,92.13648701,400.0
+CS_140,Dorgahil Govt. Primary School,21.24856296,92.15923584,350.0
+CS_124,Kutupalong Govt. Primary School,21.2222550318846,92.1618239257033,350.0
+CS_133,Ukhia Model Govt. Primary School,21.24595,92.1333,400.0
+CS_121,Deilpara Govt. Primary School,21.25678,92.1657,400.0
+CS_123,Koyrati Govt. Primary School,21.23977,92.1258,400.0
+CS_126,Middle Rajapalong Govt. Primary School,21.26145,92.1147,350.0
+CS_161,Raja Palong Cyclone Shelter Cum GPS,21.25489501,92.12492387,350.0
+CS_156,Uttor Pukuria Govt. Primary School,21.26844534,92.12458301,350.0
+CS_86,Choang khali Govt. Primary School,21.12503,92.0952,300.0
+CS_122,Horinmara Govt. Primary School,21.24827,92.1658,400.0
+CS_134,Foliapara Govt. Primary School,21.2372887,92.1408298,400.0
+CS_135,NI Chowdhuri BM College,21.240081,92.1437206,800.0
+CS_100,Balokhali Govt. Primary School,21.1890257,92.1680399,400.0
+CS_103,Farir Bill Cyclone Shelter cum GPS,21.1443376,92.1615282,300.0
+CS_99,Anjuman Para Govt. Primary School,21.14668,92.1771,350.0
+CS_107,South Balukhali Latifunnesa Govt. Primary School,21.184517,92.168277,350.0
+CS_109,Thaingkhali Govt. Primary School,21.1697559974431,92.1551512697851,320.0
+CS_148,Rohomter Bill Dakhil Madrasha,21.16651482,92.16086413,325.0
+CS_90,Mader bani Govt. Primary School,21.11508,92.1085,400.0
+CS_162,Telkhola Cyclone Shelter Cum GPS,21.16902591,92.12007463,700.0
+CS_158,Hazi Guramia Cyclone Shelter Cum GPS (Mochorkhali),21.15545749,92.13702031,320.0
+CS_105,Palongkhali Model High School,21.1456409381886,92.1666825378997,250.0
+CS_101,Balukhali Kamenia High School,21.190423,92.1681008,250.0
+CS_147,Matherbonia Cheptakhali Costal High School,21.11000955,92.11222531,850.0
+CS_136,Abul Kashem Nurjahan Chowdhury High School,20.860765,92.295583,250.0
+CS_138,Baitus Sharaf Adarsha Shah Jabbaria Girls' Dakhil Madrasa,21.25574154,92.12621737,250.0
+CS_94,Ruppoti Govt. Primary School,21.17055,92.0571,400.0
+CS_91,Md. Safir bil Govt. Primary School,21.21018,92.049,450.0
+CS_88,Enani Govt. Primary School,21.23622,92.049598,400.0
+CS_93,Nidania Govt. Primary School,21.25883,92.0535,450.0
+CS_87,Dailpara Govt. Primary School,21.27298,92.0507,400.0
+CS_97,Sonarpara High School,21.28638,92.0544,500.0
+CS_96,Sonarpara Dakhil Madrasha,21.2857544255566,92.0552393875849,500.0
+CS_84,Rumkhapalong Madrasha,21.27728,92.0956,500.0
+CS_83,Rumkha Palong High School,21.28237,92.1203,500.0
+CS_79,Muktijodda High School,21.30437,92.0979,500.0
+CS_77,Moricha Govt. Primary School,21.31118,92.0974,500.0
+CS_76,Hiltop High School,21.28168,92.1052,500.0
+CS_75,Teknaf Upazila Complex Adarsha School,20.8739150043681,92.2986371752723,500.0
+CS_74,Mochini Nayapara Adarsha Biddapith,20.9509910003229,92.2555379001631,500.0
+CS_73,Leda High School,20.9722509999997,92.2489820000029,500.0
+CS_72,Jadimura M.R Govt. Primary School,20.9406100030488,92.2599850097456,500.0
+CS_71,Baharchhara UP Complex,21.0319870005029,92.1776770030318,500.0
+CS_67,Teknaf Pilot High School,20.86023333,92.29561667,500.0
+CS_66,Teknaf Model Govt.primary School.,20.8603,92.29603333,500.0
+CS_65,Teknaf Ezahar High School,20.87253333,92.2967,500.0
+CS_64,Teknaf College,20.8589,92.29728333,500.0
+CS_63,Teknaf Burmise Govt. Primary School,20.86828333,92.29901667,500.0
+CS_62,Shaparirdip Majer para Govt.Primary School,20.7641482908287,92.3237114711,500.0
+CS_59,Shaparir dip Govt. Primary School,20.7668229919235,92.3309037271347,500.0
+CS_56,Sabrang Govt. Primary School,20.8284825874315,92.3001949459111,500.0
+CS_55,Sabrang Community Govt. Primary School,20.8183814885402,92.3061270522916,500.0
+CS_54,Rangikhali Govt. Primary School,20.9872711582375,92.2421189386853,500.0
+CS_53,Rangikhali Darululom Madrasa,20.9894855067319,92.2414473952633,500.0
+CS_47,Nila Moulovi Bazaar Jamiria Darululom Madrasa,21.0335153956677,92.2401758154618,500.0
+CS_46,Nila Girl’s High School,21.01898333,92.24255,500.0
+CS_44,Nayabazar Govt. Primary School,21.05155,92.23326667,500.0
+CS_42,Naikong Khai Govt.Primary School,21.0320944229737,92.2406080933849,500.0
+CS_4,Jabbaria Sahin Sharif Govt. Primary School,21.0651703336116,92.1540930995363,500.0
+CS_39,Maimuna Govt. Primary School,20.8748636630829,92.2957195700717,500.0
+CS_34,Kharang khali Govt. Primary School,21.041709304161,92.2457517103825,500.0
+CS_30,Kanzarpara Govt. Primary School,21.07753333,92.21703333,500.0
+CS_28,Jhimonkhali Govt. Primary School,21.0604977371139,92.2255631077721,500.0
+CS_27,Jaliapara Govt. Primary School,20.8646002384582,92.3041227922924,500.0
+CS_22,Hamidia Govt. Primary School,20.884,92.25826667,500.0
+CS_155,Uttar Borobil Thimchori Govt. Primary School,21.33263337,92.13281043,500.0
+CS_154,Tuturbil Govt. Primary School,21.26383642,92.10355954,500.0
+CS_153,Thaingkhali Dakhil Madrasha,21.17049145,92.15707397,500.0
+CS_152,Telipara,21.2892257,92.13067244,500.0
+CS_151,Taipalong Dakhil Madrasha,21.25125387,92.14879354,500.0
+CS_150,Syed Bokht Chemon High School,21.2873174435422,92.0920115204953,500.0
+CS_146,Koroibunia Govt. Primary School,21.2745888,92.15883492,500.0
+CS_144,Holdia Patarbari Govt. Primary School,21.30632774,92.14344935,500.0
+CS_143,Guraiar Dip,21.298656,92.0833675,500.0
+CS_142,Goyalmara Madrasha,21.2673799706135,92.1436364503985,500.0
+CS_14,Ali Akbar para Govt.Primary School,21.0282012337124,92.2342334474251,500.0
+CS_139,Cheptakhali Kab'bin Madrasha,21.10286484,92.12150339,500.0
+CS_137,Arobindu Borua Govt. Primary School,21.23617397,92.17033972,500.0
+CS_132,Ukhia Multipurpose High School,21.2459253,92.1376093,500.0
+CS_131,Ukhia Girls high school,21.249638,92.131176,500.0
+CS_130,Ukhia degree college,21.24115,92.1571,500.0
+CS_129,Razapalong A.K.C. High school,21.261,92.1141,500.0
+CS_128,Rajapalong Fajil Madrasha,21.2550741105257,92.1257076625635,500.0
+CS_125,Kutupalong High School,21.2230154,92.1618535,500.0
+CS_120,Chakbotia Govt. Primary School,21.26797,92.152,500.0
+CS_12,Unchiprang Primary School,21.091078030539,92.2112973598876,500.0
+CS_119,Poschim Rotna Govt. Primary School,21.27245,92.0989,500.0
+CS_118,Valukia Palong High School,21.2845,92.1384,500.0
+CS_117,Valukia Govt. Primary School,21.2845858292049,92.1375367257676,500.0
+CS_115,Ruhullar Deba Govt. Primary School,21.27497,92.1222,500.0
+CS_114,Ratnapalong Govt. Primary School,21.27302,92.1113,500.0
+CS_113,Purbo Valukia Govt. Primary School,21.2895,92.1559,500.0
+CS_112,Ratnapalong Model High School,21.2733,92.1108,500.0
+CS_110,Amtoli Govt. Primary School,21.28155,92.1459,500.0
+CS_108,Thainkhali High School,21.1703405,92.1579269,500.0
+CS_106,Rahamater Bil Govt. Primary School,21.163332,92.165834,500.0
+CS_104,Palongkhali Govt. Primary School,21.1443376,92.1615282,500.0
+CS_102,Farir Beel Alim Madrasha,21.144842,92.169807,500.0
